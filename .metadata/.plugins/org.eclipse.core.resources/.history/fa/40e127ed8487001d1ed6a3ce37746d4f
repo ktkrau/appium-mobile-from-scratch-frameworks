@@ -1,0 +1,13 @@
+package udemyappiummobile.Appium;
+
+import org.testng.annotations.Test;
+
+public class MobileBrowserTest {
+	
+	@Test
+	public void browserTest{
+		
+		
+	}
+
+}
