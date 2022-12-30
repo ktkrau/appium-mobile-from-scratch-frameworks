@@ -59,7 +59,7 @@ public class BaseTest {
 	@AfterClass
 	public void tearDown() {
 		
-		driver.quit(); //se cierra
+		driver.quit(); 
 		service.stop();
 	}
 }

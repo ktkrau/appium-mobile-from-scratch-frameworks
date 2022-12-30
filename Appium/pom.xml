@@ -56,6 +56,11 @@
 
 
 
+  	<dependency>
+  		<groupId>org.framkeworkpart</groupId>
+  		<artifactId>AppiumFrameworkDesign</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 
   <build>
